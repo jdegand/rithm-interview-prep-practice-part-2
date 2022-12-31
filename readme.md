@@ -371,6 +371,6 @@ skipVowels("aaaa") // []
 
 ## Useful Resources
 
-- [Stack Overflow](https://stackoverflow.com/questions/24943200/javascript-2d-array-indexof)
-- [Stack Overflow](https://stackoverflow.com/questions/30092638/skipping-multiple-elements-in-a-for-loop-javascript)
-- [TutorialsPoint](https://www.tutorialspoint.com/building-frequency-map-of-all-the-elements-in-an-array-javascript)
+- [Stack Overflow](https://stackoverflow.com/questions/24943200/javascript-2d-array-indexof) - 2d array indexof
+- [Stack Overflow](https://stackoverflow.com/questions/30092638/skipping-multiple-elements-in-a-for-loop-javascript) - skip multiple elements in a for loop
+- [TutorialsPoint](https://www.tutorialspoint.com/building-frequency-map-of-all-the-elements-in-an-array-javascript) - frequency map of all elements in an array
